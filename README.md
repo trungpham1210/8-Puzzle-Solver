@@ -1,5 +1,3 @@
-Sure! Here's the updated README file for your 8-Puzzle Solver project:
-
 ---
 
 # 8-Puzzle Solver
@@ -75,5 +73,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or suggestions, please contact [dinhtrungpham125@gmail.com](mailto:dinhtrungpham125@gmail.com).
 
 ---
-
-Feel free to customize this README further. If you need any more details or assistance, just let me know!
